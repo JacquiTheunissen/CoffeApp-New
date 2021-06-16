@@ -1,7 +1,7 @@
 ﻿using CoffeeApp.Services;
 using System;
 
-namespace CoffeeApp
+namespace CoffeeApp.Services
 {
     public class OrderService
     {

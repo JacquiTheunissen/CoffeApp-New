@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CoffeeApp
+namespace CoffeeApp.Services
 {
     public class MenuService
     {
